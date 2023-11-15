@@ -7,7 +7,7 @@ const LeftNav = () => {
   const date = moment().format("MMMM Do YYYY");
   const [categories, setCategories] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:3000/categories")
+    fetch("https://the-dragon-news-server-site.vercel.app/categories")
       .then((res) => res.json())
       .then((data) => setCategories(data));
   }, []);

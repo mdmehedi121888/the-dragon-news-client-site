@@ -76,7 +76,7 @@ const RightNav = () => {
 
       <div className="card card-compact w-full bg-base-100 shadow-xl my-3">
         <figure>
-          <img src="../../src/assets/qZone1.png" alt="Shoes" />
+          <img src="/assets/qZone1.png" alt="Shoes" />
         </figure>
       </div>
 
@@ -84,7 +84,7 @@ const RightNav = () => {
 
       <div className="card card-compact w-full bg-base-100 shadow-xl my-3">
         <figure>
-          <img src="../../src/assets/qZone2.png" alt="Shoes" />
+          <img src="/assets/qZone2.png" alt="Shoes" />
         </figure>
       </div>
 
@@ -92,13 +92,13 @@ const RightNav = () => {
 
       <div className="card card-compact w-full bg-base-100 shadow-xl my-3">
         <figure>
-          <img src="../../src/assets/qZone3.png" alt="Shoes" />
+          <img src="/assets/qZone3.png" alt="Shoes" />
         </figure>
       </div>
 
       {/* amazing section  */}
       <div
-        style={{ backgroundImage: 'url("../../src/assets/bg.png")' }}
+        style={{ backgroundImage: 'url("/assets/bg.png")' }}
         className="text-white text-center"
       >
         <h1 className="font-bold text-2xl my-5">Create an Amazing Newspaper</h1>

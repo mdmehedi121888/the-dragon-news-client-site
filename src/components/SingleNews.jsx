@@ -35,7 +35,7 @@ const SingleNews = ({ news }) => {
 
         <div className="card card-compact bg-base-100 shadow-xl my-5 mt-10">
           <figure>
-            <img src="../../src/assets/1.png" alt="Shoes" />
+            <img src="/assets/1.png" alt="Shoes" />
           </figure>
           <div className="card-body">
             <h2 className="card-title">
@@ -56,7 +56,7 @@ const SingleNews = ({ news }) => {
 
         <div className="card card-compact bg-base-100 shadow-xl my-5 mt-10">
           <figure>
-            <img src="../../src/assets/2.png" alt="Shoes" />
+            <img src="/assets/2.png" alt="Shoes" />
           </figure>
           <div className="card-body">
             <h2 className="card-title">
@@ -77,7 +77,7 @@ const SingleNews = ({ news }) => {
 
         <div className="card card-compact bg-base-100 shadow-xl my-5 mt-10">
           <figure>
-            <img src="../../src/assets/3.png" alt="Shoes" />
+            <img src="/assets/3.png" alt="Shoes" />
           </figure>
           <div className="card-body">
             <h2 className="card-title">

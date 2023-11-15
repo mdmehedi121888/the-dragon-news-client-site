@@ -8,7 +8,7 @@ const Header = () => {
     <div className=" grid  items-center justify-center">
       <div className="flex my-5 w-full items-center justify-center">
         <div>
-          <img className="" src="../../src/assets/logo.png"></img>
+          <img className="" src="/assets/logo.png"></img>
         </div>
       </div>
       <div className="text-center w-full">

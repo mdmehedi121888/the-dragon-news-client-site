@@ -28,7 +28,7 @@ const Navbar = () => {
           <div className="w-10 rounded-full">
             <img
               alt="Tailwind CSS Navbar component"
-              src="../../public/assets/user.png"
+              src="https://ibb.co/album/NtYRg4"
             />
           </div>
           <button onClick={handleLogOut} className="font-bold text-xl">

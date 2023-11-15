@@ -26,10 +26,7 @@ const Navbar = () => {
       {user && (
         <div className="flex justify-center gap-3">
           <div className="w-10 rounded-full">
-            <img
-              alt="Tailwind CSS Navbar component"
-              src="../../public/assets/user.png"
-            />
+            <img alt="Tailwind CSS Navbar component" src="/assets/user.png" />
           </div>
           <button onClick={handleLogOut} className="font-bold text-xl">
             LogOut
